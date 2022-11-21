@@ -1,6 +1,7 @@
 // Contains the 'merged' function
 #include <iostream>
 #include <fstream>
+#include <string>
 #include <experimental/filesystem> // directory_iterator()
 #include "finals.h"
 #include "utils.h"

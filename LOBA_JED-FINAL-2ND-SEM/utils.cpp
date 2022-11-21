@@ -4,6 +4,7 @@
 #include <iostream>
 #include <fstream>
 #include <conio.h>
+#include <string>
 #include <experimental/filesystem> // remove(), rename()
 
 namespace fs = std::experimental::filesystem;
